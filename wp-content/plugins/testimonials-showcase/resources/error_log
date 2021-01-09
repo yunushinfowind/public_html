@@ -1,0 +1,8 @@
+[10-Sep-2020 11:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/resources/ttshowcase.php:195
+Stack trace:
+#0 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/resources/ttshowcase.php on line 195
+[10-Sep-2020 12:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/resources/options.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/resources/options.php on line 23

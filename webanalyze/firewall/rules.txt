@@ -1,0 +1,72 @@
+::ALLOW_ALL_IP::
+# Any actions will be allowed from these IP addresses
+# Samples:
+# 100.50.60.70
+# 100.50.60.*
+# 100.50.*.*
+
+
+::BLOCK_ALL_IP::
+# Any actions will be blocked from these IP addresses
+# Samples:
+# 100.50.60.70
+# 100.50.60.*
+# 100.50.*.*
+
+
+::ALERT_IP::
+# Any actions will be allowed from these IP addresses, but admin will get notification by email
+# Samples:
+# 100.50.60.70
+# 100.50.60.*
+# 100.50.*.*
+
+
+::BLOCK_RULES_IP::
+# For these IP addresses will be special rules (see section BLOCK_RULES)
+# Samples:
+# 100.50.60.70
+# 100.50.60.*
+# 100.50.*.*
+
+
+::BLOCK_RULES::
+# Firewall rules for selected IP addresses (see section BLOCK_RULES_IP)
+# Samples:
+# allow|file|/phpinfo.php			- allow to execute phpinfo.php
+# block|file|/phpinfo.php			- block to execute phpinfo.php
+# allow|folder|/images/				- allow to execute any php files ONLY in folder /images/ (note /images/banner/ is not included)
+# block|folder|/images/				- block to execute any php files ONLY in folder /images/ (note /images/banner/ is not included and can be executed)
+# allow|any|/images/*				- allow to execute any php files in folder /images/ and all folders inside
+# block|folder|/images/*			- block to execute any php files in folder /images/ and all folders inside
+
+
+::RULES::
+# Firewall rules for all IP addresses allow/block access to the files
+# Samples:
+# allow|file|/phpinfo.php			- allow to execute phpinfo.php
+# block|file|/phpinfo.php			- block to execute phpinfo.php
+# allow|folder|/images/				- allow to execute any php files ONLY in folder /images/ (note /images/banner/ is not included)
+# block|folder|/images/				- block to execute any php files ONLY in folder /images/ (note /images/banner/ is not included and can be executed)
+# allow|any|/images/*				- allow to execute any php files in folder /images/ and all folders inside
+# block|folder|/images/*			- block to execute any php files in folder /images/ and all folders inside
+
+#block|file|/wp-login.php
+block|any|/wp-content/uploads/*
+
+
+
+::BLOCK_REQUESTS::
+# Analyze all data in $_REQUEST and blocks executing
+# Samples:
+# field_name|field_value
+# p1|*								- any requests with field name p1 will be blocked
+# *|base64_decode					- any requests with field value (contains the word base64_decode) will be blocked
+p1|*
+*|base64_decode
+*|<?php
+*|eval(
+*|get_file_contents
+*|FilesMan
+*|edoced_46esab
+*|move_uploaded_file

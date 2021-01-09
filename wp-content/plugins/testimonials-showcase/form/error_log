@@ -1,0 +1,4 @@
+[09-Sep-2020 21:32:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/form/form.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/form/form.php on line 44

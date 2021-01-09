@@ -1,0 +1,97 @@
+[10-Sep-2020 12:22:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-page-data.php:80
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-page-data.php(66): FLPageData::init_defaults()
+#1 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-page-data.php(492): FLPageData::init()
+#2 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-page-data.php on line 80
+[11-Sep-2020 06:16:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-admin-menu.php:17
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-admin-menu.php(87): FLThemeBuilderAdminMenu::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-admin-menu.php on line 17
+[11-Sep-2020 06:18:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-rules-user.php:17
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-rules-user.php(263): FLThemeBuilderRulesUser::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-rules-user.php on line 17
+[11-Sep-2020 06:22:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-admin-bar.php:17
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-admin-bar.php(147): FLThemeBuilderAdminBar::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-admin-bar.php on line 17
+[11-Sep-2020 06:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trailingslashit() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-loader.php:85
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-loader.php(26): FLThemeBuilderLoader::define_constants()
+#1 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-loader.php(278): FLThemeBuilderLoader::init()
+#2 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-loader.php on line 85
+[11-Sep-2020 06:24:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-admin-customize.php:17
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-admin-customize.php(60): FLThemeBuilderAdminCustomize::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-admin-customize.php on line 17
+[11-Sep-2020 06:24:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-post-type.php:18
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-post-type.php(128): FLThemeBuilderLayoutPostType::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-post-type.php on line 18
+[11-Sep-2020 06:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-frontend-edit.php:18
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-frontend-edit.php(70): FLThemeBuilderFrontendEdit::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-frontend-edit.php on line 18
+[11-Sep-2020 06:25:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-logic-i18n.php:17
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-logic-i18n.php(205): BB_Logic_I18n::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-logic-i18n.php on line 17
+[11-Sep-2020 06:31:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-rules-location.php:73
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-rules-location.php(1584): FLThemeBuilderRulesLocation::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-rules-location.php on line 73
+[11-Sep-2020 06:33:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-post-modules.php:16
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-post-modules.php(183): FLThemeBuilderPostModules::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-post-modules.php on line 16
+[11-Sep-2020 06:33:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-admin-add.php:19
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-admin-add.php(149): FLThemeBuilderLayoutAdminAdd::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-admin-add.php on line 19
+[11-Sep-2020 08:06:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-admin-list.php:18
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-admin-list.php(179): FLThemeBuilderLayoutAdminList::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-admin-list.php on line 18
+[11-Sep-2020 09:31:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-field-connections.php:55
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-field-connections.php(645): FLThemeBuilderFieldConnections::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-field-connections.php on line 55
+[11-Sep-2020 10:57:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-templates.php:20
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-templates.php(191): FLThemeBuilderLayoutTemplates::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-templates.php on line 20
+[11-Sep-2020 14:06:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-frontend-edit.php:18
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-frontend-edit.php(40): FLThemeBuilderLayoutFrontendEdit::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-frontend-edit.php on line 18
+[11-Sep-2020 14:15:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-admin-edit.php:21
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-admin-edit.php(296): FLThemeBuilderLayoutAdminEdit::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-admin-edit.php on line 21
+[11-Sep-2020 16:56:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-renderer.php:18
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-renderer.php(533): FLThemeBuilderLayoutRenderer::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder-layout-renderer.php on line 18
+[12-Sep-2020 01:44:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder.php:17
+Stack trace:
+#0 /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder.php(84): FLThemeBuilder::init()
+#1 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/bb-theme-builder/classes/class-fl-theme-builder.php on line 17

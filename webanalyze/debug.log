@@ -1,0 +1,53 @@
+2016-03-21 12:55:23 Start Scan Process ver. 2.6 [scanner ver. 2.0]
+2016-03-21 12:55:23 Change Time limit: TRUE , Value: 7200
+2016-03-21 12:55:23 Current Memory limit: 256M
+2016-03-21 12:55:23 OS info: Linux (Linux box765.bluehost.com 3.12.52-20160119.106.ELK6.x86_64 #1 SMP Tue Jan 19 16:53:32 CST 2016 x86_64)
+2016-03-21 12:55:23 PHP ver: 5.2.17
+2016-03-21 12:55:23 Domain: http://lessonsonthego.com
+2016-03-21 12:55:23 Scan path: /home3/lessony4/public_html/
+2016-03-21 12:55:23 Session report key: b0f9997f858053734595e9d5657b2bad
+2016-03-21 12:55:23 Report URL: https://www.siteguarding.com/antivirus/viewreport?report_id=b0f9997f858053734595e9d5657b2bad
+2016-03-21 12:55:23 TMP folder: /home3/lessony4/public_html/webanalyze/
+2016-03-21 12:55:26 -----------------------------------------------------------------------
+2016-03-21 12:55:26 Collecting info about the files [METHOD 2]
+2016-03-21 12:55:26 Excluded Folders: 0
+2016-03-21 12:55:28 Save collected file_list
+2016-03-21 12:55:28 Total files: 3043
+2016-03-21 12:55:28 -----------------------------------------------------------------------
+2016-03-21 12:55:28 Start - Pack with SSH
+2016-03-21 12:55:41 Pack file: /home3/lessony4/public_html/webanalyze/pack.tar
+2016-03-21 12:55:41 Pack file is 9.5Mb
+2016-03-21 12:55:41 -----------------------------------------------------------------------
+2016-03-21 12:55:41 Start - Send Packed files to SG server
+2016-03-21 12:55:41 Pack URL: /webanalyze/pack.tar
+2016-03-21 12:55:41 CURL CURLOPT_INFILE: /home3/lessony4/public_html/webanalyze/pack.tar
+2016-03-21 12:55:41 CURL CURLOPT_INFILESIZE: 9958186
+2016-03-21 12:55:41 CURL info - Array
+(
+    [url] => http://www.siteguarding.com/ext/antivirus/index.php?action=uploadfiles_ver2
+    [content_type] => text/html
+    [http_code] => 200
+    [header_size] => 236
+    [request_size] => 240
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.533325
+    [namelookup_time] => 0.001014
+    [connect_time] => 0.003506
+    [pretransfer_time] => 0.003683
+    [size_upload] => 9958859
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 18673152
+    [download_content_length] => 0
+    [upload_content_length] => 9958859
+    [starttransfer_time] => 0.008098
+    [redirect_time] => 0
+)
+
+2016-03-21 12:55:41 Pack file sent for analyze - OK
+2016-03-21 12:55:44 -----------------------------------------------------------------------
+2016-03-21 12:55:44 Start - Report generating
+2016-03-21 12:58:38 Done. Sending your report by email
+2016-03-21 12:58:40 Report Sent - OK

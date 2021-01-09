@@ -1,0 +1,310 @@
+/* Error Message */
+
+.ttshowcase_form_error {
+	padding:15px;
+	font-weight: bold;
+	background:#FFF;
+	color:red;
+	margin-bottom:10px;
+}
+
+.ttshowcase_form_wrap .error {
+    padding:15px;
+    font-weight: bold;
+    color:red;    
+}
+
+/* Confirmation Message */
+
+.ttshowcase_confirmation {
+    padding:15px;
+    font-weight: bold;
+}
+
+/* Captcha Image */
+
+.tt_capimg {
+    vertical-align: middle;
+}
+
+.tt_cap_input {
+    width:80px !important;
+}
+
+/* Simple Style*/
+
+.tt_simple label {
+	width:20%;
+	text-align: left;
+	font-weight: bold;
+	display: inline-block;
+    vertical-align: middle;
+}
+.tt_simple input, .tt_simple textarea, .tt_simple select {
+	display: inline-block;
+    margin: 0; 
+    padding: 1px 5px;
+    min-height: 26px;
+}
+.tt_simple fieldset {
+	padding:5px;
+}
+
+
+
+/* Style 01
+.tt_style_1{background-color: #f73456;} */
+.tt_style_1 label {
+    width:26%;
+    margin:0;
+    padding: 0;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+.tt_style_1 input, .tt_style_1 textarea {
+    display: inline-block;
+    width: 70%;
+    margin: 0;
+    padding: 1px 5px;
+    min-height: 26px;
+}
+.tt_style_1 fieldset {
+    padding:10px;
+    border: 0;
+    margin: 5px 0;
+}
+
+.tt_style_1 button {
+    margin: 10px;
+    border:0;
+    text-shadow:none!important;
+    font-weight:500;
+    min-height:32px;
+    text-transform:uppercase;
+    text-align:center;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    -webkit-box-shadow:0 1px 1px rgba(0,0,1,0.8);
+    -moz-box-shadow:0 1px 1px rgba(0,0,1,0.8);
+    box-shadow:0 1px 1px rgba(0,0,1,0.8);
+    padding:0 20px;
+}
+.tt_style_1 button:hover{
+    cursor: pointer;
+    -webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    -ms-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+}
+.tt_style_1 fieldset:hover{
+    background: rgba(0, 0, 0, .05);
+    -webkit-transition: background-color 800ms linear;
+    -moz-transition: background-color 800ms linear;
+    -o-transition: background-color 800ms linear;
+    -ms-transition: background-color 800ms linear;
+    transition: background-color 800ms linear;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:10px;
+}
+
+/* Style 02
+.tt_style_2{background-color: #f3c876;} */
+.tt_style_2 label {
+    margin:0 4px;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+.tt_style_2 input, .tt_style_2 textarea {
+    width: 100%;
+    padding:5px 2%;
+    margin: 0; 
+    padding: 1px 5px;
+    min-height: 26px;
+    -webkit-border-radius:0;
+    -moz-border-radius:0;
+    border-radius:0;
+}
+.tt_style_2 button {
+    margin: 10px 15px;
+    border:0;
+    text-shadow:none!important;
+    font-weight:500;
+    min-height:32px;
+    text-transform:uppercase;
+    text-align:center;
+    -webkit-box-shadow:0 1px 1px rgba(0,0,1,0.8);
+    -moz-box-shadow:0 1px 1px rgba(0,0,1,0.8);
+    box-shadow:0 1px 1px rgba(0,0,1,0.8);
+    padding:0 20px;
+    -webkit-border-radius:0;
+    -moz-border-radius:0;
+    border-radius:0;
+}
+.tt_style_2 fieldset {
+    padding: 8px 2%;
+    border: 0;
+    margin: 2px 0;
+}
+.tt_style_2 button:hover{
+    cursor: pointer;
+    -webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    -ms-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+}
+.tt_style_2 fieldset:hover{
+    background: rgba(0, 0, 0, .05);
+    -webkit-transition: background-color 500ms linear;
+    -moz-transition: background-color 500ms linear;
+    -o-transition: background-color 500ms linear;
+    -ms-transition: background-color 500ms linear;
+    transition: background-color 500ms linear;
+}
+
+/* Style 03
+.tt_style_3{background-color: #7f4564;} */
+.tt_style_3 label {
+    width:26%;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+.tt_style_3 input, .tt_style_3 textarea,  .tt_style_3 #featured_image {
+    display: inline-block;
+    width: 70%;
+    margin: 0; 
+    padding: 1px 5px;
+    min-height: 26px;
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
+    border-radius:15px;
+}
+.tt_style_3 fieldset {
+    padding:12px;
+    border: 0;
+    margin: 5px 0;
+}
+
+.tt_style_3 img {
+    border-radius: 15px;
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
+}
+
+.tt_style_3 button {
+    margin: 10px;
+    border:0;
+    text-shadow:none!important;
+    font-weight:500;
+    min-height:32px;
+    text-transform:uppercase;
+    text-align:center;
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
+    border-radius:15px;
+    -webkit-box-shadow:0 1px 1px rgba(0,0,1,0.8);
+    -moz-box-shadow:0 1px 1px rgba(0,0,1,0.8);
+    box-shadow:0 1px 1px rgba(0,0,1,0.8);
+    padding:0 20px;
+}
+.tt_style_3 button:hover{
+    cursor: pointer;
+    -webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    -ms-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+}
+.tt_style_3 fieldset:hover{
+    -webkit-transition: background-color 800ms linear;
+    -moz-transition: background-color 800ms linear;
+    -o-transition: background-color 800ms linear;
+    -ms-transition: background-color 800ms linear;
+    transition: background-color 800ms linear;
+    background: -webkit-linear-gradient(rgba(0, 0, 0, .01), rgba(0, 0, 0, .2)); /* For Safari */
+    background: -o-linear-gradient(rgba(0, 0, 0, .01), rgba(0, 0, 0, .2)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(0, 0, 0, .01), rgba(0, 0, 0, .2)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(0, 0, 0, .01), rgba(0, 0, 0, .2)); /* Standard syntax */
+    -webkit-border-radius:25px;
+    -moz-border-radius:25px;
+    border-radius:25px;
+}
+/* Style 04 
+.tt_style_4{background-color: #5cf677;}*/
+.tt_style_4 label {
+    margin:0 4px;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+.tt_style_4 input, .tt_style_4 textarea {
+    width: 100%;
+    padding:5px 2%;
+    margin: 0; 
+    padding: 1px 5px;
+    min-height: 26px;
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
+    border-radius:15px;
+}
+
+.tt_style_4 img {
+    border-radius: 15px;
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
+}
+
+.tt_style_4 button {
+    margin: 10px;
+    border:0;
+    text-shadow:none!important;
+    font-weight:500;
+    min-height:32px;
+    text-transform:uppercase;
+    text-align:center;
+    -webkit-box-shadow:0 1px 1px rgba(0,0,1,0.8);
+    -moz-box-shadow:0 1px 1px rgba(0,0,1,0.8);
+    box-shadow:0 1px 1px rgba(0,0,1,0.8);
+    padding:0 20px;
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
+    border-radius:15px;
+}
+.tt_style_4 fieldset {
+    padding: 8px 2%;
+    border: 0;
+    margin: 2px 0;
+}
+.tt_style_4 button:hover{
+    cursor: pointer;
+    -webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    -ms-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+}
+.tt_style_4 fieldset:hover{
+    -webkit-transition: background-color 800ms linear;
+    -moz-transition: background-color 800ms linear;
+    -o-transition: background-color 800ms linear;
+    -ms-transition: background-color 800ms linear;
+    transition: background-color 800ms linear;
+    background: -webkit-linear-gradient(rgba(0, 0, 0, .01), rgba(0, 0, 0, .2)); /* For Safari */
+    background: -o-linear-gradient(rgba(0, 0, 0, .01), rgba(0, 0, 0, .2)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(0, 0, 0, .01), rgba(0, 0, 0, .2)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(0, 0, 0, .01), rgba(0, 0, 0, .2)); /* Standard syntax */
+    -webkit-border-radius:25px;
+    -moz-border-radius:25px;
+    border-radius:25px;
+}
+
+
+/* Hide Honeypot */
+#tt_hp_email_mandatory { display:none;}
+

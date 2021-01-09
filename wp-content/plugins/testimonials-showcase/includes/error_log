@@ -1,0 +1,15 @@
+[10-Sep-2020 09:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_activation_hook() in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/includes/utils.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/includes/utils.php on line 14
+[12-Sep-2020 06:31:05 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/includes/class-widget.php on line 5
+[07-Nov-2020 16:27:34 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/includes/class-widget.php on line 5
+[07-Nov-2020 16:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_activation_hook() in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/includes/utils.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/includes/utils.php on line 14
+[05-Jan-2021 11:26:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_activation_hook() in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/includes/utils.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/includes/utils.php on line 14
+[05-Jan-2021 11:29:58 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/lotg/public_html/wp-content/plugins/testimonials-showcase/includes/class-widget.php on line 5

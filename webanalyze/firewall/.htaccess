@@ -1,0 +1,7 @@
+# ALLOW ONLY MONITORING SERVER
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from 185.72.156.128
+allow from 185.72.156.129
+</Limit>

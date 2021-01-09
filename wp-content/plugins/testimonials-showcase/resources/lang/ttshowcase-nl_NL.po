@@ -1,0 +1,2694 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Testimonials Showcase v1.1.4.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-06-23 15:51:28+0000\n"
+"Last-Translator: cmoreira <carlostrickster@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: form/form-class.php:22
+#: options.php:189
+#@ ttshowcase
+msgid "Subtitle"
+msgstr ""
+
+#: form/form-class.php:23
+#@ ttshowcase
+msgid "Subtitle input active"
+msgstr ""
+
+#: form/form-class.php:30
+#@ ttshowcase
+msgid "URL field"
+msgstr ""
+
+#: form/form-class.php:31
+#@ ttshowcase
+msgid "URL input field active"
+msgstr ""
+
+#: form/form-class.php:38
+#@ ttshowcase
+msgid "Display Image Upload"
+msgstr ""
+
+#: form/form-class.php:39
+#@ ttshowcase
+msgid "Display Image Upload option"
+msgstr ""
+
+#: form/form-class.php:47
+#@ ttshowcase
+msgid "Display Title Option"
+msgstr ""
+
+#: form/form-class.php:48
+#@ ttshowcase
+msgid "Display Review/testimonial title option"
+msgstr ""
+
+#: form/form-class.php:56
+#@ ttshowcase
+msgid "Display Star Rating"
+msgstr ""
+
+#: form/form-class.php:57
+#@ ttshowcase
+msgid "Display Star Rating option"
+msgstr ""
+
+#: form/form-class.php:68
+#@ ttshowcase
+msgid "Email Field"
+msgstr ""
+
+#: form/form-class.php:69
+#@ ttshowcase
+msgid "Display Email Field"
+msgstr ""
+
+#: form/form-class.php:76
+#@ ttshowcase
+msgid "Human Verification"
+msgstr ""
+
+#: form/form-class.php:77
+#@ ttshowcase
+msgid "Display math problem to verify if visitor is human"
+msgstr ""
+
+#: form/form-class.php:81
+#@ ttshowcase
+msgid "Math Problem"
+msgstr ""
+
+#: form/form-class.php:82
+#@ ttshowcase
+msgid "Letter Deciphering"
+msgstr ""
+
+#: form/form-class.php:89
+#@ ttshowcase
+msgid "Recognise Logged Users"
+msgstr ""
+
+#: form/form-class.php:90
+#@ ttshowcase
+msgid "If the user is logged, it will autofill email and name fields"
+msgstr ""
+
+#: form/form-class.php:98
+#@ ttshowcase
+msgid "Only allow Logged Users"
+msgstr ""
+
+#: form/form-class.php:99
+#@ ttshowcase
+msgid "The form will only display if the user is logged in"
+msgstr ""
+
+#: form/form-class.php:110
+#@ ttshowcase
+msgid "Default Category"
+msgstr ""
+
+#: form/form-class.php:111
+#@ ttshowcase
+msgid "Hidden field to set default category for entry. Useful for product or service reviews."
+msgstr ""
+
+#: form/form-class.php:115
+#@ ttshowcase
+msgid "Do not use"
+msgstr ""
+
+#: form/form-class.php:117
+#: options.php:900
+#: options.php:941
+#: options.php:1022
+#@ ttshowcase
+msgid "[ Current Page Slug ]"
+msgstr ""
+
+#: form/form-class.php:118
+#: options.php:901
+#: options.php:942
+#: options.php:1023
+#@ ttshowcase
+msgid "[ Current Page ID ]"
+msgstr ""
+
+#: form/form-class.php:124
+#@ ttshowcase
+msgid "Dispay category dropdown"
+msgstr ""
+
+#: form/form-class.php:125
+#@ ttshowcase
+msgid "The form will display a category dropdown for the user to choose the category. If a default category is set, it will display initially selected."
+msgstr ""
+
+#: form/form-class.php:132
+#: layouts/averagebox/layout.php:33
+#@ ttshowcase
+msgid "Style"
+msgstr ""
+
+#: form/form-class.php:133
+#@ ttshowcase
+msgid "Which style to adapt for the form"
+msgstr ""
+
+#: form/form.php:110
+#: options.php:1104
+#@ ttshowcase
+msgid " Please insert the correct answer"
+msgstr ""
+
+#: form/form.php:116
+#: options.php:1105
+#@ ttshowcase
+msgid " Please enter a valid name"
+msgstr ""
+
+#: form/form.php:125
+#: options.php:1106
+#@ ttshowcase
+msgid " Please enter a valid email"
+msgstr ""
+
+#: form/form.php:235
+#: options.php:1107
+#@ ttshowcase
+msgid "New Testimonial to Review"
+msgstr ""
+
+#: includes/class-addons.php:224
+#@ ttshowcase
+msgid "title"
+msgstr ""
+
+#: includes/class-cpt.php:73
+#: includes/class-cpt.php:74
+#: includes/class-cpt.php:168
+#@ ttshowcase
+msgid "Add New"
+msgstr ""
+
+#: includes/class-cpt.php:75
+#: includes/class-cpt.php:166
+#@ ttshowcase
+msgid "Edit"
+msgstr ""
+
+#: includes/class-cpt.php:76
+#: includes/class-cpt.php:169
+#@ ttshowcase
+msgid "New"
+msgstr ""
+
+#: includes/class-cpt.php:77
+#: includes/class-cpt.php:163
+#: includes/utils-advanced.php:277
+#: includes/utils-advanced.php:335
+#: options.php:1076
+#@ ttshowcase
+msgid "All"
+msgstr ""
+
+#: includes/class-cpt.php:78
+#@ ttshowcase
+msgid "View"
+msgstr ""
+
+#: includes/class-cpt.php:79
+#: includes/class-cpt.php:162
+#: options.php:100
+#@ ttshowcase
+msgid "Search"
+msgstr ""
+
+#: includes/class-cpt.php:80
+#: includes/class-cpt.php:81
+#@ ttshowcase
+msgid "No result found"
+msgstr ""
+
+#: includes/class-cpt.php:117
+#: includes/class-cpt.php:149
+#@ ttshowcase
+msgid "singular"
+msgstr ""
+
+#: includes/class-cpt.php:122
+#: includes/class-cpt.php:150
+#@ ttshowcase
+msgid "plural"
+msgstr ""
+
+#: includes/class-cpt.php:164
+#: includes/class-cpt.php:165
+#@ ttshowcase
+msgid "Parent"
+msgstr ""
+
+#: includes/class-cpt.php:167
+#@ ttshowcase
+msgid "Update"
+msgstr ""
+
+#: includes/class-cpt.php:288
+#: includes/class-cpt.php:329
+#: includes/class-cpt.php:504
+#: includes/class-settings.php:125
+#: includes/class-shortcodes.php:329
+#: includes/class-shortcodes.php:336
+#: includes/class-shortcodes.php:379
+#: includes/class-shortcodes.php:464
+#: includes/class-shortcodes.php:471
+#: includes/class-shortcodes.php:512
+#: includes/utils-advanced.php:375
+#: includes/utils-advanced.php:397
+#: includes/utils-advanced.php:418
+#: includes/utils-advanced.php:440
+#: includes/utils-advanced.php:469
+#: includes/utils-advanced.php:507
+#: includes/utils-advanced.php:532
+#: includes/utils-advanced.php:556
+#@ ttshowcase
+msgid "label"
+msgstr ""
+
+#: includes/class-cpt.php:295
+#: includes/class-cpt.php:338
+#: includes/class-cpt.php:505
+#: includes/class-settings.php:126
+#: includes/class-shortcodes.php:390
+#: includes/class-shortcodes.php:523
+#: includes/utils-advanced.php:262
+#: includes/utils-advanced.php:371
+#: includes/utils-advanced.php:393
+#: includes/utils-advanced.php:414
+#: includes/utils-advanced.php:436
+#: includes/utils-advanced.php:476
+#: includes/utils-advanced.php:549
+#@ ttshowcase
+msgid "description"
+msgstr ""
+
+#: includes/class-cpt.php:480
+#@ ttshowcase
+msgid "argsdescription"
+msgstr ""
+
+#: includes/class-ordering.php:211
+#@ ttshowcase
+msgid "Activate Drag & Drop Sorting"
+msgstr ""
+
+#: includes/class-ordering.php:212
+#@ ttshowcase
+msgid "Drag and Drop Sorting Activated"
+msgstr ""
+
+#: includes/class-ordering.php:213
+#@ ttshowcase
+msgid "Order is automaticaly saved after each Drag&Drop"
+msgstr ""
+
+#: includes/class-ordering.php:214
+#@ ttshowcase
+msgid "Disable Drag & Drop"
+msgstr ""
+
+#: includes/class-settings.php:102
+#@ ttshowcase
+msgid "section_description"
+msgstr ""
+
+#: includes/class-settings.php:111
+#: includes/class-settings.php:190
+#@ ttshowcase
+msgid "section_title"
+msgstr ""
+
+#: includes/class-settings.php:167
+#: options.php:1084
+#@ ttshowcase
+msgid "Settings Updated"
+msgstr ""
+
+#: includes/class-shortcodes.php:80
+#: includes/class-shortcodes.php:81
+#: options.php:872
+#: options.php:873
+#@ ttshowcase
+msgid "Shortcode Generator"
+msgstr ""
+
+#: includes/class-shortcodes.php:160
+#@ ttshowcase
+msgid "page_title"
+msgstr ""
+
+#: includes/class-shortcodes.php:163
+#@ ttshowcase
+msgid "intro_text"
+msgstr ""
+
+#: includes/class-shortcodes.php:282
+#@ ttshowcase
+msgid "Layouts"
+msgstr ""
+
+#: includes/class-shortcodes.php:578
+#@ ttshowcase
+msgid "Create New"
+msgstr ""
+
+#: includes/utils-advanced.php:456
+#@ ttshowcase
+msgid "default"
+msgstr ""
+
+#: includes/utils-advanced.php:459
+#: options.php:1070
+#@ ttshowcase
+msgid "Order Attribute"
+msgstr ""
+
+#: includes/utils-advanced.php:460
+#: options.php:1071
+#@ ttshowcase
+msgid "ID"
+msgstr ""
+
+#: includes/utils-advanced.php:461
+#: options.php:1073
+#@ ttshowcase
+msgid "Random"
+msgstr ""
+
+#: includes/utils-advanced.php:462
+#: options.php:1072
+#@ ttshowcase
+msgid "Title"
+msgstr ""
+
+#: includes/utils-advanced.php:463
+#@ ttshowcase
+msgid "Date"
+msgstr ""
+
+#: includes/utils-advanced.php:478
+#: options.php:1074
+#@ ttshowcase
+msgid "Ascending"
+msgstr ""
+
+#: includes/utils-advanced.php:479
+#: options.php:1075
+#@ ttshowcase
+msgid "Descending"
+msgstr ""
+
+#: includes/utils-advanced.php:500
+#: options.php:1078
+#@ ttshowcase
+msgid "Published"
+msgstr ""
+
+#: includes/utils-advanced.php:501
+#: options.php:1079
+#@ ttshowcase
+msgid "Pending Review"
+msgstr ""
+
+#: includes/utils-advanced.php:502
+#: options.php:1080
+#@ ttshowcase
+msgid "in Draft"
+msgstr ""
+
+#: includes/utils-advanced.php:503
+#: options.php:1081
+#@ ttshowcase
+msgid "Private"
+msgstr ""
+
+#: includes/utils-advanced.php:526
+#@ ttshowcase
+msgid "Do Not Use"
+msgstr ""
+
+#: includes/utils-advanced.php:527
+#@ ttshowcase
+msgid "Use Pagination"
+msgstr ""
+
+#: includes/utils-advanced.php:528
+#@ ttshowcase
+msgid "Use Pagination (Short)"
+msgstr ""
+
+#: includes/utils-advanced.php:551
+#: options.php:1082
+#@ ttshowcase
+msgid "ASC"
+msgstr ""
+
+#: includes/utils-advanced.php:552
+#: options.php:1083
+#@ ttshowcase
+msgid "DESC"
+msgstr ""
+
+#: includes/utils-advanced.php:803
+#@ ttshowcase
+msgid "Previous Page"
+msgstr ""
+
+#: includes/utils-advanced.php:804
+#@ ttshowcase
+msgid "Next Page"
+msgstr ""
+
+#: layouts/averagebox/layout.php:45
+#: layouts/grid/layout.php:170
+#: layouts/slider/layout.php:268
+#@ ttshowcase
+msgid "Theme"
+msgstr ""
+
+#: layouts/averagebox/layout.php:46
+#@ ttshowcase
+msgid "Aspect of Box"
+msgstr ""
+
+#: layouts/averagebox/layout.php:50
+#@ ttshowcase
+msgid "Simple Box"
+msgstr ""
+
+#: layouts/averagebox/layout.php:51
+#@ ttshowcase
+msgid "Big Stars Box"
+msgstr ""
+
+#: layouts/averagebox/layout.php:52
+#: layouts/grid/layout.php:180
+#: layouts/slider/layout.php:204
+#: layouts/slider/layout.php:278
+#: options.php:1077
+#@ ttshowcase
+msgid "None"
+msgstr ""
+
+#: layouts/averagebox/layout.php:61
+#: layouts/grid/layout.php:229
+#: layouts/slider/layout.php:314
+#@ ttshowcase
+msgid "What do display"
+msgstr ""
+
+#: layouts/averagebox/layout.php:74
+#@ ttshowcase
+msgid "Show Stars"
+msgstr ""
+
+#: layouts/averagebox/layout.php:75
+#@ ttshowcase
+msgid "Display Star Icons"
+msgstr ""
+
+#: layouts/averagebox/layout.php:82
+#@ ttshowcase
+msgid "Use Half Stars"
+msgstr ""
+
+#: layouts/averagebox/layout.php:83
+#@ ttshowcase
+msgid "Display Half Stars"
+msgstr ""
+
+#: layouts/averagebox/layout.php:90
+#@ ttshowcase
+msgid "Stars Label"
+msgstr ""
+
+#: layouts/averagebox/layout.php:91
+#@ ttshowcase
+msgid "Text to display before the Star Icons"
+msgstr ""
+
+#: layouts/averagebox/layout.php:98
+#@ ttshowcase
+msgid "Show Average"
+msgstr ""
+
+#: layouts/averagebox/layout.php:99
+#@ ttshowcase
+msgid "Display average value of ratings"
+msgstr ""
+
+#: layouts/averagebox/layout.php:106
+#@ ttshowcase
+msgid "Average Label"
+msgstr ""
+
+#: layouts/averagebox/layout.php:107
+#@ ttshowcase
+msgid "Text to display before the Average"
+msgstr ""
+
+#: layouts/averagebox/layout.php:114
+#@ ttshowcase
+msgid "Show Total Ratings"
+msgstr ""
+
+#: layouts/averagebox/layout.php:115
+#@ ttshowcase
+msgid "Display number of total ratings"
+msgstr ""
+
+#: layouts/averagebox/layout.php:122
+#@ ttshowcase
+msgid "Total Label"
+msgstr ""
+
+#: layouts/averagebox/layout.php:123
+#@ ttshowcase
+msgid "Text to display before the Total Ratings value"
+msgstr ""
+
+#: layouts/averagebox/layout.php:130
+#@ ttshowcase
+msgid "Total Label After"
+msgstr ""
+
+#: layouts/averagebox/layout.php:131
+#@ ttshowcase
+msgid "Text to display after the Total Ratings value"
+msgstr ""
+
+#: layouts/averagebox/layout.php:138
+#@ ttshowcase
+msgid "Total Label After (singular)"
+msgstr ""
+
+#: layouts/averagebox/layout.php:139
+#@ ttshowcase
+msgid "Text to display after the Total Ratings value when there's only one rating"
+msgstr ""
+
+#: layouts/averagebox/layout.php:146
+#@ ttshowcase
+msgid "Text for empty average"
+msgstr ""
+
+#: layouts/averagebox/layout.php:147
+#@ ttshowcase
+msgid "Text to display when there are no ratings to calculate average"
+msgstr ""
+
+#: layouts/averagebox/layout.php:160
+#: layouts/averagebox/layout.php:173
+#: layouts/grid/layout.php:387
+#: layouts/grid/layout.php:399
+#: layouts/slider/layout.php:473
+#: layouts/slider/layout.php:486
+#: options.php:523
+#@ ttshowcase
+msgid "Rich Snippets"
+msgstr ""
+
+#: layouts/averagebox/layout.php:174
+#: layouts/grid/layout.php:400
+#: layouts/slider/layout.php:487
+#@ ttshowcase
+msgid "Keep the default settings or override them for this specific shortcode"
+msgstr ""
+
+#: layouts/averagebox/layout.php:178
+#: layouts/grid/layout.php:404
+#: layouts/slider/layout.php:491
+#@ ttshowcase
+msgid "Default Settings"
+msgstr ""
+
+#: layouts/averagebox/layout.php:179
+#: layouts/grid/layout.php:405
+#: layouts/slider/layout.php:492
+#@ ttshowcase
+msgid "Do not include meta data"
+msgstr ""
+
+#: layouts/averagebox/layout.php:180
+#: layouts/grid/layout.php:406
+#: layouts/slider/layout.php:493
+#@ ttshowcase
+msgid "Include meta data"
+msgstr ""
+
+#: layouts/averagebox/layout.php:185
+#: layouts/grid/layout.php:411
+#: layouts/slider/layout.php:498
+#@ ttshowcase
+msgid "Product being reviewed"
+msgstr ""
+
+#: layouts/averagebox/layout.php:186
+#: layouts/grid/layout.php:412
+#: layouts/slider/layout.php:499
+#@ ttshowcase
+msgid "Custom Product Name for Rich Snippets. Will only be used if Rich Snippets are active for shortcodes. Leave blank to use default Product set in the settings page."
+msgstr ""
+
+#: layouts/grid/layout.php:42
+#@ ttshowcase
+msgid "Grid Layout"
+msgstr ""
+
+#: layouts/grid/layout.php:43
+#@ ttshowcase
+msgid "These options apply only to the Grid layout. Some options are specific to some layout themes. Read the description to understand what the field information will be used on."
+msgstr ""
+
+#: layouts/grid/layout.php:47
+#: layouts/slider/layout.php:46
+#@ ttshowcase
+msgid "General Settings"
+msgstr ""
+
+#: layouts/grid/layout.php:54
+#@ ttshowcase
+msgid "Use Masonry Alignment"
+msgstr ""
+
+#: layouts/grid/layout.php:55
+#@ ttshowcase
+msgid "Vertical align entries in masonry style"
+msgstr ""
+
+#: layouts/grid/layout.php:62
+#: layouts/slider/layout.php:51
+#@ ttshowcase
+msgid "Italic by Default"
+msgstr ""
+
+#: layouts/grid/layout.php:63
+#: layouts/slider/layout.php:52
+#@ ttshowcase
+msgid "Default all text of Testimonial to <i>Italic</i>"
+msgstr ""
+
+#: layouts/grid/layout.php:69
+#: layouts/slider/layout.php:58
+#@ ttshowcase
+msgid "Read More Label"
+msgstr ""
+
+#: layouts/grid/layout.php:70
+#: layouts/slider/layout.php:59
+#@ ttshowcase
+msgid "Text to display in the Read More link to single page of entry."
+msgstr ""
+
+#: layouts/grid/layout.php:73
+#: layouts/slider/layout.php:62
+#@ ttshowcase
+msgid "Read More..."
+msgstr ""
+
+#: layouts/grid/layout.php:77
+#: layouts/slider/layout.php:65
+#@ ttshowcase
+msgid "Use default image"
+msgstr ""
+
+#: layouts/grid/layout.php:78
+#: layouts/slider/layout.php:66
+#@ ttshowcase
+msgid "Display default image (set below) when there is no image present"
+msgstr ""
+
+#: layouts/grid/layout.php:85
+#: layouts/slider/layout.php:73
+#@ ttshowcase
+msgid "Default Image"
+msgstr ""
+
+#: layouts/grid/layout.php:86
+#@ ttshowcase
+msgid "Image to display when there is not featured image set (if option above is active). <br>You can use the default:"
+msgstr ""
+
+#: layouts/grid/layout.php:92
+#: layouts/slider/layout.php:80
+#@ ttshowcase
+msgid "Speech Bubble Themes Color Options"
+msgstr ""
+
+#: layouts/grid/layout.php:98
+#: layouts/slider/layout.php:86
+#@ ttshowcase
+msgid "Speech Bubble Background Color"
+msgstr ""
+
+#: layouts/grid/layout.php:99
+#: layouts/grid/layout.php:117
+#: layouts/slider/layout.php:87
+#: layouts/slider/layout.php:105
+#@ ttshowcase
+msgid "Main color for the text box"
+msgstr ""
+
+#: layouts/grid/layout.php:104
+#@ ttshowcase
+msgid "Text Color"
+msgstr ""
+
+#: layouts/grid/layout.php:105
+#: layouts/slider/layout.php:93
+#@ ttshowcase
+msgid "Color of the text inside the speech bubble"
+msgstr ""
+
+#: layouts/grid/layout.php:111
+#: layouts/slider/layout.php:99
+#@ ttshowcase
+msgid "Card Box Theme Color Options"
+msgstr ""
+
+#: layouts/grid/layout.php:116
+#: layouts/slider/layout.php:104
+#@ ttshowcase
+msgid "Main Background Color"
+msgstr ""
+
+#: layouts/grid/layout.php:122
+#: layouts/slider/layout.php:110
+#@ ttshowcase
+msgid "Main Text Color"
+msgstr ""
+
+#: layouts/grid/layout.php:123
+#: layouts/slider/layout.php:111
+#@ ttshowcase
+msgid "Color of the text inside the box"
+msgstr ""
+
+#: layouts/grid/layout.php:129
+#: layouts/slider/layout.php:117
+#@ ttshowcase
+msgid "Author Background Color"
+msgstr ""
+
+#: layouts/grid/layout.php:130
+#: layouts/slider/layout.php:118
+#@ ttshowcase
+msgid "Will only be used in Flat Speech Bubbles Layout"
+msgstr ""
+
+#: layouts/grid/layout.php:135
+#: layouts/slider/layout.php:123
+#@ ttshowcase
+msgid "Author Text Color"
+msgstr ""
+
+#: layouts/grid/layout.php:136
+#: layouts/slider/layout.php:124
+#@ ttshowcase
+msgid "Color of the text inside the box - to be used only for Flat Speech Bubbles Layout"
+msgstr ""
+
+#: layouts/grid/layout.php:157
+#@ ttshowcase
+msgid "Visual Settings"
+msgstr ""
+
+#: layouts/grid/layout.php:171
+#: layouts/slider/layout.php:269
+#@ ttshowcase
+msgid "Aspect of the grid elements"
+msgstr ""
+
+#: layouts/grid/layout.php:175
+#: layouts/slider/layout.php:273
+#@ ttshowcase
+msgid "Rounded Speech Bubbles"
+msgstr ""
+
+#: layouts/grid/layout.php:176
+#: layouts/slider/layout.php:274
+#@ ttshowcase
+msgid "Flat Speech Bubbles"
+msgstr ""
+
+#: layouts/grid/layout.php:177
+#: layouts/slider/layout.php:275
+#@ ttshowcase
+msgid "Flat Card Box"
+msgstr ""
+
+#: layouts/grid/layout.php:178
+#: layouts/slider/layout.php:276
+#@ ttshowcase
+msgid "Quote Signs"
+msgstr ""
+
+#: layouts/grid/layout.php:179
+#: layouts/slider/layout.php:277
+#@ ttshowcase
+msgid "Simple Separator"
+msgstr ""
+
+#: layouts/grid/layout.php:187
+#: layouts/slider/layout.php:287
+#@ ttshowcase
+msgid "Composition"
+msgstr ""
+
+#: layouts/grid/layout.php:188
+#: layouts/slider/layout.php:288
+#@ ttshowcase
+msgid "Position of the elements"
+msgstr ""
+
+#: layouts/grid/layout.php:192
+#: layouts/slider/layout.php:292
+#@ ttshowcase
+msgid "Author Below, Text Above"
+msgstr ""
+
+#: layouts/grid/layout.php:193
+#: layouts/slider/layout.php:293
+#@ ttshowcase
+msgid "Author Above, Text Below"
+msgstr ""
+
+#: layouts/grid/layout.php:194
+#: layouts/slider/layout.php:294
+#@ ttshowcase
+msgid "Author Left, Text Right"
+msgstr ""
+
+#: layouts/grid/layout.php:195
+#: layouts/slider/layout.php:295
+#@ ttshowcase
+msgid "Author Right, Text Left"
+msgstr ""
+
+#: layouts/grid/layout.php:199
+#: layouts/slider/layout.php:299
+#@ ttshowcase
+msgid "Alignment"
+msgstr ""
+
+#: layouts/grid/layout.php:200
+#: layouts/slider/layout.php:300
+#@ ttshowcase
+msgid "General Alignment of Elements"
+msgstr ""
+
+#: layouts/grid/layout.php:203
+#@ ttshowcase
+msgid "Left"
+msgstr ""
+
+#: layouts/grid/layout.php:204
+#@ ttshowcase
+msgid "Right"
+msgstr ""
+
+#: layouts/grid/layout.php:205
+#@ ttshowcase
+msgid "Center"
+msgstr ""
+
+#: layouts/grid/layout.php:210
+#@ ttshowcase
+msgid "Columns"
+msgstr ""
+
+#: layouts/grid/layout.php:211
+#@ ttshowcase
+msgid "Number of columns to display"
+msgstr ""
+
+#: layouts/grid/layout.php:215
+#@ ttshowcase
+msgid "1 Column"
+msgstr ""
+
+#: layouts/grid/layout.php:216
+#@ ttshowcase
+msgid "2 Columns"
+msgstr ""
+
+#: layouts/grid/layout.php:217
+#@ ttshowcase
+msgid "3 Columns"
+msgstr ""
+
+#: layouts/grid/layout.php:218
+#@ ttshowcase
+msgid "4 Columns"
+msgstr ""
+
+#: layouts/grid/layout.php:219
+#@ ttshowcase
+msgid "5 Columns"
+msgstr ""
+
+#: layouts/grid/layout.php:220
+#@ ttshowcase
+msgid "6 Columns"
+msgstr ""
+
+#: layouts/grid/layout.php:241
+#: layouts/slider/layout.php:326
+#: options.php:1097
+#@ ttshowcase
+msgid "Testimonial Title"
+msgstr ""
+
+#: layouts/grid/layout.php:242
+#: layouts/slider/layout.php:327
+#@ ttshowcase
+msgid "Display Testimonial/Review title"
+msgstr ""
+
+#: layouts/grid/layout.php:249
+#: layouts/slider/layout.php:334
+#@ ttshowcase
+msgid "Star Rating"
+msgstr ""
+
+#: layouts/grid/layout.php:250
+#: layouts/slider/layout.php:335
+#@ ttshowcase
+msgid "Display Star Rating below the author info"
+msgstr ""
+
+#: layouts/grid/layout.php:257
+#: layouts/slider/layout.php:342
+#@ ttshowcase
+msgid "Display Date"
+msgstr ""
+
+#: layouts/grid/layout.php:258
+#: layouts/slider/layout.php:343
+#@ ttshowcase
+msgid "Display Date of entry"
+msgstr ""
+
+#: layouts/grid/layout.php:266
+#: layouts/slider/layout.php:351
+#@ ttshowcase
+msgid "Char. limit"
+msgstr ""
+
+#: layouts/grid/layout.php:267
+#: layouts/slider/layout.php:352
+#@ ttshowcase
+msgid "Number of characters from the testimonial text to display. Leave blank to display all. Usefull to make slides have the same size, when text has different lenghts. Shortcodes will be disabeld."
+msgstr ""
+
+#: layouts/grid/layout.php:274
+#: layouts/slider/layout.php:359
+#@ ttshowcase
+msgid "Cutout text"
+msgstr ""
+
+#: layouts/grid/layout.php:275
+#: layouts/slider/layout.php:360
+#@ ttshowcase
+msgid "Text string to display if Char Limit is being used and text has been cut off."
+msgstr ""
+
+#: layouts/grid/layout.php:284
+#: layouts/slider/layout.php:369
+#@ ttshowcase
+msgid "Read More"
+msgstr ""
+
+#: layouts/grid/layout.php:285
+#: layouts/slider/layout.php:370
+#@ ttshowcase
+msgid "Default URL will be to single page of entry. Custom URL option must be set below. Subtitle URL will be the same as the entry Sub title url field."
+msgstr ""
+
+#: layouts/grid/layout.php:289
+#: layouts/slider/layout.php:374
+#@ ttshowcase
+msgid "Disabled"
+msgstr ""
+
+#: layouts/grid/layout.php:290
+#: layouts/slider/layout.php:375
+#@ ttshowcase
+msgid "Default URL"
+msgstr ""
+
+#: layouts/grid/layout.php:291
+#: layouts/slider/layout.php:376
+#@ ttshowcase
+msgid "Default URL (cutout text)"
+msgstr ""
+
+#: layouts/grid/layout.php:292
+#: layouts/slider/layout.php:377
+#@ ttshowcase
+msgid "Custom URL"
+msgstr ""
+
+#: layouts/grid/layout.php:293
+#: layouts/slider/layout.php:378
+#@ ttshowcase
+msgid "Subtitle URL field"
+msgstr ""
+
+#: layouts/grid/layout.php:297
+#: layouts/slider/layout.php:383
+#@ ttshowcase
+msgid "Custom Read More URL"
+msgstr ""
+
+#: layouts/grid/layout.php:298
+#: layouts/slider/layout.php:384
+#@ ttshowcase
+msgid "Place URL here if Custom URL option is chosen above. If left blank, default single entry URL will be used"
+msgstr ""
+
+#: layouts/grid/layout.php:310
+#: layouts/slider/layout.php:396
+#@ ttshowcase
+msgid "Image Settings"
+msgstr ""
+
+#: layouts/grid/layout.php:322
+#: layouts/slider/layout.php:408
+#@ ttshowcase
+msgid "Display Image"
+msgstr ""
+
+#: layouts/grid/layout.php:323
+#: layouts/slider/layout.php:409
+#@ ttshowcase
+msgid "If disabeled, the settings below will be ignored"
+msgstr ""
+
+#: layouts/grid/layout.php:331
+#: layouts/slider/layout.php:417
+#@ ttshowcase
+msgid "Image Size"
+msgstr ""
+
+#: layouts/grid/layout.php:332
+#: layouts/slider/layout.php:418
+#@ ttshowcase
+msgid "You can change the custom sizes in the Settings page"
+msgstr ""
+
+#: layouts/grid/layout.php:335
+#: layouts/slider/layout.php:421
+#@ ttshowcase
+msgid "Custom Small Size"
+msgstr ""
+
+#: layouts/grid/layout.php:336
+#: layouts/slider/layout.php:422
+#@ ttshowcase
+msgid "Custom Medium Size"
+msgstr ""
+
+#: layouts/grid/layout.php:337
+#: layouts/slider/layout.php:423
+#@ ttshowcase
+msgid "Default Thumbnail Size"
+msgstr ""
+
+#: layouts/grid/layout.php:341
+#: layouts/slider/layout.php:427
+#@ ttshowcase
+msgid "Image Shape"
+msgstr ""
+
+#: layouts/grid/layout.php:342
+#@ ttshowcase
+msgid "image shape effect"
+msgstr ""
+
+#: layouts/grid/layout.php:346
+#: layouts/slider/layout.php:432
+#@ ttshowcase
+msgid "Squared"
+msgstr ""
+
+#: layouts/grid/layout.php:347
+#: layouts/slider/layout.php:433
+#@ ttshowcase
+msgid "Rounded Corners"
+msgstr ""
+
+#: layouts/grid/layout.php:348
+#: layouts/slider/layout.php:434
+#@ ttshowcase
+msgid "Circular"
+msgstr ""
+
+#: layouts/grid/layout.php:353
+#: layouts/slider/layout.php:439
+#@ ttshowcase
+msgid "Image Effect"
+msgstr ""
+
+#: layouts/grid/layout.php:354
+#: layouts/slider/layout.php:440
+#@ ttshowcase
+msgid "image shape description"
+msgstr ""
+
+#: layouts/grid/layout.php:358
+#: layouts/slider/layout.php:444
+#@ ttshowcase
+msgid "Transparency"
+msgstr ""
+
+#: layouts/grid/layout.php:359
+#: layouts/slider/layout.php:445
+#@ ttshowcase
+msgid "Grayscale"
+msgstr ""
+
+#: layouts/grid/layout.php:360
+#: layouts/slider/layout.php:446
+#@ ttshowcase
+msgid "White Border"
+msgstr ""
+
+#: layouts/grid/layout.php:361
+#: layouts/slider/layout.php:447
+#@ ttshowcase
+msgid "Shadow Highlight"
+msgstr ""
+
+#: layouts/grid/layout.php:367
+#: layouts/slider/layout.php:453
+#@ ttshowcase
+msgid "Image Link"
+msgstr ""
+
+#: layouts/grid/layout.php:368
+#: layouts/slider/layout.php:454
+#@ ttshowcase
+msgid "If active, the image will follow the options chosen in the Advanced URL settings for each entry"
+msgstr ""
+
+#: layouts/grid/layout.php:375
+#: layouts/slider/layout.php:461
+#@ ttshowcase
+msgid "Image Size Override"
+msgstr ""
+
+#: layouts/grid/layout.php:376
+#: layouts/slider/layout.php:462
+#@ ttshowcase
+msgid "Place new image dimensions in this format: widthXheight. For example: 100x100. It will ignore the image size option and try to redimension the image to this size."
+msgstr ""
+
+#: layouts/grid/layout.php:522
+#: layouts/slider/layout.php:606
+#: options.php:1085
+#@ ttshowcase
+msgid "Continue Reading"
+msgstr "Verder Lezen"
+
+#: layouts/grid/layout.php:675
+#: layouts/slider/layout.php:765
+#@ ttshowcase
+msgid "ago"
+msgstr ""
+
+#: layouts/slider/layout.php:41
+#@ ttshowcase
+msgid "Slider Layout"
+msgstr ""
+
+#: layouts/slider/layout.php:42
+#@ ttshowcase
+msgid "These options apply only to the Slider layout. Some options are specific to some layout themes. Read the description to understand what the field information will be used on."
+msgstr ""
+
+#: layouts/slider/layout.php:74
+#@ ttshowcase
+msgid "Image to display when there is not featured image set (If option is active). <br>You can use the default:"
+msgstr ""
+
+#: layouts/slider/layout.php:92
+#@ ttshowcase
+msgid "Speech Bubble Text Color"
+msgstr ""
+
+#: layouts/slider/layout.php:130
+#@ ttshowcase
+msgid "Slider Controls Options"
+msgstr ""
+
+#: layouts/slider/layout.php:136
+#@ ttshowcase
+msgid "Next Arrow Code"
+msgstr ""
+
+#: layouts/slider/layout.php:137
+#@ ttshowcase
+msgid "Code to display for Next Arrow. By Default we use a <a href=\"http://fontawesome.io/icons/#directional\" target=\"_blank\">Font Awesome Icon</a>."
+msgstr ""
+
+#: layouts/slider/layout.php:143
+#@ ttshowcase
+msgid "Previous Arrow Code"
+msgstr ""
+
+#: layouts/slider/layout.php:144
+#@ ttshowcase
+msgid "Code to display for Previous Arrow. By Default we use a <a href=\"http://fontawesome.io/icons/#directional\" target=\"_blank\">Font Awesome Icon</a>."
+msgstr ""
+
+#: layouts/slider/layout.php:165
+#@ ttshowcase
+msgid "Slider Settings"
+msgstr ""
+
+#: layouts/slider/layout.php:177
+#@ ttshowcase
+msgid "Transition"
+msgstr ""
+
+#: layouts/slider/layout.php:178
+#@ ttshowcase
+msgid "Slider Transition Effect"
+msgstr ""
+
+#: layouts/slider/layout.php:182
+#@ ttshowcase
+msgid "Fade"
+msgstr ""
+
+#: layouts/slider/layout.php:183
+#@ ttshowcase
+msgid "Horizontal Slide"
+msgstr ""
+
+#: layouts/slider/layout.php:184
+#@ ttshowcase
+msgid "Vertical Slide"
+msgstr ""
+
+#: layouts/slider/layout.php:196
+#@ ttshowcase
+msgid "Controls"
+msgstr ""
+
+#: layouts/slider/layout.php:197
+#@ ttshowcase
+msgid "What kind of controls to display"
+msgstr ""
+
+#: layouts/slider/layout.php:201
+#@ ttshowcase
+msgid "Pager Circles"
+msgstr ""
+
+#: layouts/slider/layout.php:202
+#@ ttshowcase
+msgid "Next / Previous Arrows"
+msgstr ""
+
+#: layouts/slider/layout.php:203
+#@ ttshowcase
+msgid "Play/Pause Controls"
+msgstr ""
+
+#: layouts/slider/layout.php:221
+#@ ttshowcase
+msgid "Pause Time"
+msgstr ""
+
+#: layouts/slider/layout.php:222
+#@ ttshowcase
+msgid "Pause time between slides (in ms)"
+msgstr ""
+
+#: layouts/slider/layout.php:229
+#@ ttshowcase
+msgid "Auto Start"
+msgstr ""
+
+#: layouts/slider/layout.php:230
+#@ ttshowcase
+msgid "If inactive the sliders will only change if user clicks the controls"
+msgstr ""
+
+#: layouts/slider/layout.php:237
+#@ ttshowcase
+msgid "Entries"
+msgstr ""
+
+#: layouts/slider/layout.php:238
+#@ ttshowcase
+msgid "Number of entries to display in each slide"
+msgstr ""
+
+#: layouts/slider/layout.php:242
+#@ ttshowcase
+msgid "1 Entry"
+msgstr ""
+
+#: layouts/slider/layout.php:243
+#@ ttshowcase
+msgid "2 Entry"
+msgstr ""
+
+#: layouts/slider/layout.php:244
+#@ ttshowcase
+msgid "3 Entries"
+msgstr ""
+
+#: layouts/slider/layout.php:245
+#@ ttshowcase
+msgid "4 Entries"
+msgstr ""
+
+#: layouts/slider/layout.php:257
+#@ ttshowcase
+msgid "Visual Options"
+msgstr ""
+
+#: layouts/slider/layout.php:428
+#@ ttshowcase
+msgid "Image shape effect"
+msgstr ""
+
+#: options.php:23
+#: options.php:1090
+#@ ttshowcase
+msgid "Testimonial"
+msgstr "Testimonial_NL"
+
+#: options.php:24
+#: options.php:59
+#@ ttshowcase
+msgid "Testimonials"
+msgstr ""
+
+#: options.php:51
+#@ ttshowcase
+msgid "Show all"
+msgstr ""
+
+#: options.php:65
+#@ ttshowcase
+msgid "Image"
+msgstr ""
+
+#: options.php:71
+#@ ttshowcase
+msgid "Order"
+msgstr ""
+
+#: options.php:92
+#: options.php:104
+#, php-format
+#@ ttshowcase
+msgid "%plural%"
+msgstr ""
+
+#: options.php:93
+#, php-format
+#@ ttshowcase
+msgid "%singular%"
+msgstr ""
+
+#: options.php:94
+#, php-format
+#@ ttshowcase
+msgid "All %plural%"
+msgstr ""
+
+#: options.php:95
+#: options.php:96
+#, php-format
+#@ ttshowcase
+msgid "Add New %singular%"
+msgstr ""
+
+#: options.php:97
+#, php-format
+#@ ttshowcase
+msgid "Edit %singular%"
+msgstr ""
+
+#: options.php:98
+#, php-format
+#@ ttshowcase
+msgid "New %singular%"
+msgstr ""
+
+#: options.php:99
+#, php-format
+#@ ttshowcase
+msgid "View %singular%"
+msgstr ""
+
+#: options.php:101
+#, php-format
+#@ ttshowcase
+msgid "No %singular% found"
+msgstr ""
+
+#: options.php:102
+#, php-format
+#@ ttshowcase
+msgid "No %singular% found in Trash"
+msgstr ""
+
+#: options.php:103
+#, php-format
+#@ ttshowcase
+msgid "Parent %singular%:"
+msgstr ""
+
+#: options.php:117
+#@ URL slug
+msgid "testimonial"
+msgstr ""
+
+#: options.php:128
+#@ ttshowcase
+msgid "Advanced URL Image Settings"
+msgstr ""
+
+#: options.php:129
+#@ ttshowcase
+msgid "Advanced Image URL settings for this entry"
+msgstr ""
+
+#: options.php:135
+#@ ttshowcase
+msgid "Behavior"
+msgstr ""
+
+#: options.php:137
+#@ ttshowcase
+msgid "What behavior will the image have?"
+msgstr ""
+
+#: options.php:141
+#@ ttshowcase
+msgid "Link to Single Page Entry"
+msgstr ""
+
+#: options.php:142
+#@ ttshowcase
+msgid "Same Link of Subtitle entry"
+msgstr ""
+
+#: options.php:144
+#@ ttshowcase
+msgid "Open Custom Url in New Page"
+msgstr ""
+
+#: options.php:145
+#@ ttshowcase
+msgid "Open Custom Url in Same Page"
+msgstr ""
+
+#: options.php:146
+#@ ttshowcase
+msgid "Open Url in default lightbox"
+msgstr ""
+
+#: options.php:147
+#@ ttshowcase
+msgid "Open Url in custom lightbox"
+msgstr ""
+
+#: options.php:153
+#: options.php:1089
+#@ ttshowcase
+msgid "URL"
+msgstr "URL_NL"
+
+#: options.php:155
+#@ ttshowcase
+msgid ""
+"<br />Add the custom URL here, if the above selection requires you to do so.<br />\n"
+"\t\t\t\t\t\t\tIf you have another lightbox plugin installed you can use the custom lightbox option and set the class in the advanced settings.<br />\n"
+"\t\t\t\t\t\t\tUse the default lightbox option with careful. If you have another lightbox plugin installed, they might be conflictual.<br />\n"
+"\t\t\t\t\t\t\tRead more about how to build links for the lightbox <a href=\"http://cmoreira.net/testimonials-showcase/lightbox\" target=\"_blank\">here</a>\n"
+"\t\t\t\t\t\t\t"
+msgstr ""
+
+#: options.php:168
+#@ ttshowcase
+msgid "Case Study Page Content"
+msgstr ""
+
+#: options.php:169
+#@ ttshowcase
+msgid "If the single page is active you can use the editor below to add content to the page. If you will not use the single page, you can leave the field blank."
+msgstr ""
+
+#: options.php:176
+#@ ttshowcase
+msgid "Featured Image for Testimonial"
+msgstr ""
+
+#: options.php:183
+#@ ttshowcase
+msgid "Testimonial Info"
+msgstr ""
+
+#: options.php:184
+#@ ttshowcase
+msgid "Additional information for this entry"
+msgstr ""
+
+#: options.php:191
+#@ ttshowcase
+msgid "<br />This will display below the Title of the entry. It could be for example the position or company of the author of this testimonial"
+msgstr ""
+
+#: options.php:195
+#@ ttshowcase
+msgid "URL for subtitle"
+msgstr ""
+
+#: options.php:197
+#@ ttshowcase
+msgid "<br />If you want a link to be added to the sub-title above, you can add it here"
+msgstr ""
+
+#: options.php:201
+#@ ttshowcase
+msgid "URL Target"
+msgstr ""
+
+#: options.php:203
+#@ ttshowcase
+msgid "Target to Open the URL"
+msgstr ""
+
+#: options.php:205
+#@ ttshowcase
+msgid "New page"
+msgstr ""
+
+#: options.php:206
+#@ ttshowcase
+msgid "New page (no follow)"
+msgstr ""
+
+#: options.php:207
+#@ ttshowcase
+msgid "Same Page"
+msgstr ""
+
+#: options.php:212
+#@ ttshowcase
+msgid "Title for short Testimonial"
+msgstr ""
+
+#: options.php:214
+#@ ttshowcase
+msgid "<br />Optional. Title to be added just before the testimonial/review text"
+msgstr ""
+
+#: options.php:219
+#@ ttshowcase
+msgid "Short Testimonial"
+msgstr ""
+
+#: options.php:221
+#@ ttshowcase
+msgid "Short Testimonial Text"
+msgstr ""
+
+#: options.php:226
+#: options.php:1091
+#@ ttshowcase
+msgid "Rating"
+msgstr ""
+
+#: options.php:227
+#@ ttshowcase
+msgid "Optional. Only to be used in the layout if choosen to. If you have the Rich Snippets option active in the settings it's recommended you insert a rating value"
+msgstr ""
+
+#: options.php:230
+#@ ttshowcase
+msgid "Ignore"
+msgstr ""
+
+#: options.php:232
+#@ ttshowcase
+msgid "1 Star"
+msgstr ""
+
+#: options.php:234
+#@ ttshowcase
+msgid "2 Stars"
+msgstr ""
+
+#: options.php:236
+#@ ttshowcase
+msgid "3 Stars"
+msgstr ""
+
+#: options.php:238
+#@ ttshowcase
+msgid "4 Stars"
+msgstr ""
+
+#: options.php:240
+#@ ttshowcase
+msgid "5 Stars"
+msgstr ""
+
+#: options.php:244
+#: options.php:1093
+#@ ttshowcase
+msgid "Email"
+msgstr "Email"
+
+#: options.php:246
+#@ ttshowcase
+msgid "For information purposes only. <br />This will not be displayed in the layout but it might be used to search for a Gravatar if the featured image is not set."
+msgstr ""
+
+#: options.php:259
+#: options.php:260
+#: options.php:1102
+#@ ttshowcase
+msgid "Category"
+msgstr ""
+
+#: options.php:282
+#@ ttshowcase
+msgid "Post"
+msgstr ""
+
+#: options.php:282
+#@ ttshowcase
+msgid "Page"
+msgstr ""
+
+#: options.php:295
+#: options.php:296
+#@ ttshowcase
+msgid "Settings"
+msgstr ""
+
+#: options.php:300
+#@ ttshowcase
+msgid "Basic Settings"
+msgstr ""
+
+#: options.php:301
+#@ ttshowcase
+msgid "Basic settings for the plugin."
+msgstr ""
+
+#: options.php:308
+#@ ttshowcase
+msgid "<h4>Plugin Naming Related Settings</h4>"
+msgstr ""
+
+#: options.php:314
+#@ ttshowcase
+msgid "Singular Name"
+msgstr ""
+
+#: options.php:315
+#@ ttshowcase
+msgid "Singular Name for Plugin Feature"
+msgstr ""
+
+#: options.php:322
+#@ ttshowcase
+msgid "Plural Name"
+msgstr ""
+
+#: options.php:323
+#@ ttshowcase
+msgid "Plural Name for Plugin Feature"
+msgstr ""
+
+#: options.php:330
+#@ ttshowcase
+msgid "Category Menu Name"
+msgstr ""
+
+#: options.php:331
+#@ ttshowcase
+msgid "Menu Name for Category"
+msgstr ""
+
+#: options.php:339
+#@ ttshowcase
+msgid "Slug (url text)"
+msgstr ""
+
+#: options.php:340
+#@ ttshowcase
+msgid "Url String for This (You might need to re-save the permalink options after changing this setting)"
+msgstr ""
+
+#: options.php:349
+#@ ttshowcase
+msgid "<h4>Star Icon Settings</h4>"
+msgstr ""
+
+#: options.php:355
+#@ ttshowcase
+msgid "Display Empty stars"
+msgstr ""
+
+#: options.php:356
+#@ ttshowcase
+msgid "If active empty stars will display in 4 and below ratings, so 5 stars are always present"
+msgstr ""
+
+#: options.php:364
+#@ ttshowcase
+msgid "<h4>Small Thumbnail Settings</h4>"
+msgstr ""
+
+#: options.php:370
+#@ ttshowcase
+msgid "Small Thumbnail Width"
+msgstr ""
+
+#: options.php:371
+#: options.php:380
+#: options.php:408
+#: options.php:417
+#@ ttshowcase
+msgid "Thumbnail size in pixels"
+msgstr ""
+
+#: options.php:379
+#@ ttshowcase
+msgid "Small Thumbnail Height"
+msgstr ""
+
+#: options.php:388
+#@ ttshowcase
+msgid "Small Thumbnail Crop"
+msgstr ""
+
+#: options.php:389
+#: options.php:426
+#@ ttshowcase
+msgid "Do you want the thumbnail to be cropped when uploaded?"
+msgstr ""
+
+#: options.php:392
+#: options.php:429
+#@ ttshowcase
+msgid "Yes"
+msgstr ""
+
+#: options.php:393
+#: options.php:430
+#@ ttshowcase
+msgid "No"
+msgstr ""
+
+#: options.php:401
+#@ ttshowcase
+msgid "<h4>Normal Thumbnail Settings</h4>"
+msgstr ""
+
+#: options.php:407
+#@ ttshowcase
+msgid "Thumbnail Width"
+msgstr ""
+
+#: options.php:416
+#@ ttshowcase
+msgid "Thumbnail Height"
+msgstr ""
+
+#: options.php:425
+#@ ttshowcase
+msgid "Thumbnail Crop"
+msgstr ""
+
+#: options.php:437
+#@ ttshowcase
+msgid "<h4>Single Page Settings</h4>"
+msgstr ""
+
+#: options.php:451
+#@ ttshowcase
+msgid "Display short testimonial"
+msgstr ""
+
+#: options.php:452
+#@ ttshowcase
+msgid "If active the testimonial entry will also display in the single page"
+msgstr ""
+
+#: options.php:459
+#@ ttshowcase
+msgid "Theme Template"
+msgstr ""
+
+#: options.php:460
+#@ ttshowcase
+msgid "<br>The way this option works will also depend on your theme. The default template is the Post template, but many themes display extra meta information on post pages such as \"posted by\" or \"post date\" information, which may not be desired. Usually, page templates contain the essential information. If you choose \"Pages\" then the testimonials will be shown using your theme default page template. <storng>Be aware that some themes will not work with this option</strong>, if so (or you want to make a custom page), you can create a file named <code>single-ttshowcase.php</code> <a href=\"http://codex.wordpress.org/Post_Types#Template_Files\">as shown on the wordpress codex</a>, and leave this set to Posts."
+msgstr ""
+
+#: options.php:468
+#@ ttshowcase
+msgid "<h4>Pagination Labels Settings</h4>"
+msgstr ""
+
+#: options.php:474
+#@ ttshowcase
+msgid "Next Label"
+msgstr ""
+
+#: options.php:475
+#@ ttshowcase
+msgid "Next Page link label"
+msgstr ""
+
+#: options.php:481
+#@ ttshowcase
+msgid "Previous Label"
+msgstr ""
+
+#: options.php:482
+#@ ttshowcase
+msgid "Previous page link label"
+msgstr ""
+
+#: options.php:488
+#@ ttshowcase
+msgid "<h4>Date Settings</h4>"
+msgstr ""
+
+#: options.php:494
+#@ ttshowcase
+msgid "Date Format"
+msgstr ""
+
+#: options.php:495
+#@ ttshowcase
+msgid "Date format for the testiminials layouts, when displayed"
+msgstr ""
+
+#: options.php:499
+#@ ttshowcase
+msgid "WordPress Default"
+msgstr ""
+
+#: options.php:508
+#@ ttshowcase
+msgid "Custom Date Format"
+msgstr ""
+
+#: options.php:509
+#@ ttshowcase
+msgid "Documentation here: http://codex.wordpress.org/Formatting_Date_and_Time"
+msgstr ""
+
+#: options.php:524
+#@ ttshowcase
+msgid ""
+"<a href=\"https://support.google.com/webmasters/answer/99170\" target=\"_blank\">Rich Snippets</a> provide meta data about your page to the search engines. <br />\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\tIf you are using the STAR RATING option for your entries, you can activate the Rich Snippets so Review or Aggregate Review information will be included in the code. <br />\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\tThe code will follow the <a href=\"http://schema.org/\" target=\"_blank\">Schema.org</a> formats."
+msgstr ""
+
+#: options.php:531
+#@ ttshowcase
+msgid "<strong>Attention!</strong>"
+msgstr ""
+
+#: options.php:532
+#@ ttshowcase
+msgid "Rich Snippets will work better if only 1 shortcode on the page will render the metadata. If there are multiple aggregate ratings metadata, rich snippets will not work as expected. <a href=\"http://cmoreira.net/testimonials-showcase/rich-snippets/\" target=\"_blank\">More information about this</a>. <br> You can override the settings below via shortcode also."
+msgstr ""
+
+#: options.php:537
+#@ ttshowcase
+msgid "Activate Rich Snippets in single pages"
+msgstr ""
+
+#: options.php:538
+#@ ttshowcase
+msgid "If active Schema.org Review data will be added to the single page for the entries"
+msgstr ""
+
+#: options.php:545
+#@ ttshowcase
+msgid "Activate Rich Snippets in shortcodes"
+msgstr ""
+
+#: options.php:546
+#@ ttshowcase
+msgid "If active Schema.org Aggregate Review data will be added to the layouts generated by shortcodes"
+msgstr ""
+
+#: options.php:553
+#@ ttshowcase
+msgid "<strong>Product or Service being reviewed</strong>"
+msgstr ""
+
+#: options.php:554
+#@ ttshowcase
+msgid "The search engines need to know what is being reviewed. Use one of the two options below to define what product or service is being reviewed. In addition, you can also set a custom product/service name for each layout you create with the shortcode generator."
+msgstr ""
+
+#: options.php:560
+#@ ttshowcase
+msgid "Use Groups as products"
+msgstr ""
+
+#: options.php:561
+#@ ttshowcase
+msgid "Enable this option if you want the plugin to interpret the categories as products to include the information on the Rich Snippets. It will only work when the layout created is only displaying entries from a specific category. The default entry defined below will be ignored."
+msgstr ""
+
+#: options.php:568
+#@ ttshowcase
+msgid "Default Product name"
+msgstr ""
+
+#: options.php:569
+#@ ttshowcase
+msgid "Default product name to be used in the rich snippets information, in case the categories are off or do not exist, or the product information for the entry is empty."
+msgstr ""
+
+#: options.php:580
+#@ ttshowcase
+msgid "Front-End Form"
+msgstr ""
+
+#: options.php:581
+#@ ttshowcase
+msgid "This settings will reflect in the shortcodes you create to display the front-end submission form."
+msgstr ""
+
+#: options.php:587
+#@ ttshowcase
+msgid "<h4>Field Labels</h4>"
+msgstr ""
+
+#: options.php:592
+#@ ttshowcase
+msgid "Name Label"
+msgstr ""
+
+#: options.php:593
+#@ ttshowcase
+msgid "Text to display for the title input"
+msgstr ""
+
+#: options.php:599
+#@ ttshowcase
+msgid "Subtitle Label"
+msgstr ""
+
+#: options.php:600
+#@ ttshowcase
+msgid "Text to display for the subtitle information input"
+msgstr ""
+
+#: options.php:606
+#@ ttshowcase
+msgid "URL Label"
+msgstr ""
+
+#: options.php:607
+#@ ttshowcase
+msgid "Text to display for the URL input"
+msgstr ""
+
+#: options.php:613
+#@ ttshowcase
+msgid "Testimonial Title Label"
+msgstr ""
+
+#: options.php:614
+#@ ttshowcase
+msgid "Text to display for the Testimonial Title input option"
+msgstr ""
+
+#: options.php:620
+#@ ttshowcase
+msgid "Testimonial Label"
+msgstr ""
+
+#: options.php:621
+#@ ttshowcase
+msgid "Text to display for the Testimonial textarea option"
+msgstr ""
+
+#: options.php:627
+#@ ttshowcase
+msgid "Rating Label"
+msgstr ""
+
+#: options.php:628
+#@ ttshowcase
+msgid "Text to display for the Rating option"
+msgstr ""
+
+#: options.php:635
+#@ ttshowcase
+msgid "Rating Type Singular Label"
+msgstr ""
+
+#: options.php:636
+#@ ttshowcase
+msgid "Text to display for singular rating identification (ex.: Star)"
+msgstr ""
+
+#: options.php:643
+#@ ttshowcase
+msgid "Rating Type Plural Label"
+msgstr ""
+
+#: options.php:644
+#@ ttshowcase
+msgid "Text to display for singular rating identification (ex.: Stars)"
+msgstr ""
+
+#: options.php:651
+#@ ttshowcase
+msgid "Email Label"
+msgstr ""
+
+#: options.php:652
+#@ ttshowcase
+msgid "Text to display for the Email input"
+msgstr ""
+
+#: options.php:660
+#@ ttshowcase
+msgid "Human Verification Label"
+msgstr ""
+
+#: options.php:661
+#@ ttshowcase
+msgid "Text to display for Human math problem verification"
+msgstr ""
+
+#: options.php:669
+#@ ttshowcase
+msgid "Image Label"
+msgstr ""
+
+#: options.php:670
+#@ ttshowcase
+msgid "Text to display for the Image input"
+msgstr ""
+
+#: options.php:677
+#@ ttshowcase
+msgid "Category Label"
+msgstr ""
+
+#: options.php:678
+#@ ttshowcase
+msgid "Text to display for the category dropdown input"
+msgstr ""
+
+#: options.php:685
+#@ ttshowcase
+msgid "Submit Button Label"
+msgstr ""
+
+#: options.php:686
+#@ ttshowcase
+msgid "Text to display on the submit button"
+msgstr ""
+
+#: options.php:693
+#@ ttshowcase
+msgid "<h4>Confirmation and Email Settings </h4>"
+msgstr ""
+
+#: options.php:698
+#@ ttshowcase
+msgid "Thank You Message"
+msgstr ""
+
+#: options.php:699
+#@ ttshowcase
+msgid "Text to display after the user submits the form"
+msgstr ""
+
+#: options.php:701
+#@ ttshowcase
+msgid "Thank you for submitting your testimonial! It is now awaiting approval from the site admnistator. Thank you!"
+msgstr ""
+
+#: options.php:704
+#@ ttshowcase
+msgid "Error Message"
+msgstr ""
+
+#: options.php:705
+#@ ttshowcase
+msgid "Message to display when an error occurs."
+msgstr ""
+
+#: options.php:707
+#@ ttshowcase
+msgid "The entry was not submitted. Check the form for errors."
+msgstr ""
+
+#: options.php:710
+#@ ttshowcase
+msgid "Non-logged users message"
+msgstr ""
+
+#: options.php:711
+#@ ttshowcase
+msgid "Message to display to non logged users if you make the form available only to logged users"
+msgstr ""
+
+#: options.php:713
+#@ ttshowcase
+msgid "You need to be a registred user to submit entries."
+msgstr ""
+
+#: options.php:716
+#@ ttshowcase
+msgid "Send Notification Email"
+msgstr ""
+
+#: options.php:717
+#@ ttshowcase
+msgid "Send new entry notification email to site administrator"
+msgstr ""
+
+#: options.php:723
+#@ ttshowcase
+msgid "Send Email to"
+msgstr ""
+
+#: options.php:724
+#@ ttshowcase
+msgid "Notification email will be sent to this address"
+msgstr ""
+
+#: options.php:730
+#@ ttshowcase
+msgid "<h4>Publish Status Settings</h4>"
+msgstr ""
+
+#: options.php:735
+#@ ttshowcase
+msgid "Default Status of Submissions"
+msgstr ""
+
+#: options.php:736
+#@ ttshowcase
+msgid "<br>Chose if you want the entries to be automatically published or to stay pending review, until the admin decides to publish them"
+msgstr ""
+
+#: options.php:740
+#@ ttshowcase
+msgid "Pending Review - Administrator will need to approve entry"
+msgstr ""
+
+#: options.php:741
+#@ ttshowcase
+msgid "Published - Entries will be automatically visible"
+msgstr ""
+
+#: options.php:748
+#@ ttshowcase
+msgid "Advanced Settings"
+msgstr ""
+
+#: options.php:749
+#@ ttshowcase
+msgid "Advanced settings for the plugin."
+msgstr ""
+
+#: options.php:754
+#@ ttshowcase
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:755
+#@ ttshowcase
+msgid "Add custom CSS here. It will be added to the page where the layout will display"
+msgstr ""
+
+#: options.php:761
+#@ ttshowcase
+msgid "Load Custom CSS for Forms"
+msgstr ""
+
+#: options.php:762
+#@ ttshowcase
+msgid "If active, the above custom CSS will also load on pages where the frontend submission form is being used"
+msgstr ""
+
+#: options.php:770
+#@ ttshowcase
+msgid "Exclude from Search"
+msgstr ""
+
+#: options.php:771
+#@ ttshowcase
+msgid "Exclude entries from general search results"
+msgstr ""
+
+#: options.php:779
+#@ ttshowcase
+msgid "Use Gravatar"
+msgstr ""
+
+#: options.php:780
+#@ ttshowcase
+msgid "If entry doesn't have a featured image but has an email, the plugin will check with the Gravatar service if there is a profile image set for that email."
+msgstr ""
+
+#: options.php:786
+#@ ttshowcase
+msgid "Render Shortcodes"
+msgstr ""
+
+#: options.php:787
+#@ ttshowcase
+msgid "If disabled shortcodes won't be rendered inside the testimonials text entries"
+msgstr ""
+
+#: options.php:793
+#@ ttshowcase
+msgid "Render Smiles"
+msgstr ""
+
+#: options.php:794
+#@ ttshowcase
+msgid "If enabled and the emoticons are also enabled on \"Settings > Writting > Formatting\" it will convert emoticons like :-) and :-P to graphics on display"
+msgstr ""
+
+#: options.php:800
+#@ ttshowcase
+msgid "Custom Lightbox Class attribute"
+msgstr ""
+
+#: options.php:801
+#@ ttshowcase
+msgid "If you are using a custom lightbox plugin, place here the class name the links should have so the lightbox initiates."
+msgstr ""
+
+#: options.php:807
+#@ ttshowcase
+msgid "Custom Lightbox rel attribute"
+msgstr ""
+
+#: options.php:808
+#@ ttshowcase
+msgid "If you are using a custom lightbox plugin, place here the content for the attribute rel=\"\" the links should have so the lightbox initiates."
+msgstr ""
+
+#: options.php:814
+#@ ttshowcase
+msgid "Elements of Quote block"
+msgstr ""
+
+#: options.php:815
+#@ ttshowcase
+msgid "Which elements to display inside quote block (Inside Speech Bubble).<br> Available template tags: {quote},{read_more},{review_title},{author},{stars},{date},{subtitle}"
+msgstr ""
+
+#: options.php:822
+#@ ttshowcase
+msgid "Elements of Info block"
+msgstr ""
+
+#: options.php:823
+#@ ttshowcase
+msgid "Which elements to display inside info block (Together with Image).<br> Available template tags: {quote},{read_more},{review_title},{author},{stars},{date},{subtitle}"
+msgstr ""
+
+#: options.php:832
+#@ ttshowcase
+msgid "Help! FAQ"
+msgstr ""
+
+#: options.php:833
+#@ ttshowcase
+msgid "If you're having any problem with the plugin you can read the full list of Frequently asked questions in the <a href=\"http://codecanyon.net/item/testimonials-showcase-wordpress-plugin/6588139/support\" target=\"_blank\">Official FAQ page of the plugin</a>. <h3>CSS Tips & Tricks</h3> You can also check some CSS tips on the <a href=\"http://cmoreira.net/testimonials-showcase/custom-css/\" target=\"_blank\">official plugin site</a>.<br><br> <h2>The read more link / single page entry are not working! What can I do?</h2><br>If when you open a single page it returns a \"Page Not Found\" error, it's possible that the permalinks are not working well. Go on Settings > Permalinks and save the settings again, even without any changes. This will make the permalinks option update.<br><br>Another possible problem is conflict of slugs. If you have a page with the same ‘slug’ (permalink name) of the Testimonials Showcase (default is \"testimonials\"), the single pages might not work properly. You will have to change or the slug of the page/post or the slug of the Testimonials Showcase entries, in the plugin settings page and resave the permalinks again. <br> <br> "
+msgstr ""
+
+#: options.php:875
+#@ ttshowcase
+msgid "Available Generators:"
+msgstr ""
+
+#: options.php:879
+#@ ttshowcase
+msgid "Layout: Simple Query"
+msgstr ""
+
+#: options.php:880
+#: options.php:1000
+#@ ttshowcase
+msgid "This will generate a layout for the Testimonials. You have some simple options to perform a query to choose which entries to display"
+msgstr ""
+
+#: options.php:885
+#: options.php:928
+#: options.php:989
+#: options.php:1007
+#@ ttshowcase
+msgid "What you want to display"
+msgstr ""
+
+#: options.php:886
+#: options.php:929
+#: options.php:990
+#: options.php:1008
+#@ ttshowcase
+msgid "How you want to display it"
+msgstr ""
+
+#: options.php:887
+#: options.php:930
+#: options.php:991
+#: options.php:1009
+#@ ttshowcase
+msgid "You can use the shortcode on your post, pages and text widgets"
+msgstr ""
+
+#: options.php:888
+#@ ttshowcase
+msgid "This is a php function to run this shortcode. You can use it directly in the Theme files"
+msgstr ""
+
+#: options.php:889
+#: options.php:932
+#: options.php:993
+#: options.php:1011
+#@ ttshowcase
+msgid "Shortcode"
+msgstr ""
+
+#: options.php:890
+#: options.php:933
+#: options.php:994
+#: options.php:1012
+#@ ttshowcase
+msgid "Preview"
+msgstr ""
+
+#: options.php:891
+#: options.php:934
+#: options.php:1013
+#@ ttshowcase
+msgid "This is a preview only. Once you place the shortcode on your page, it might look different since it will be integrated with your layout and some CSS of your theme or other plugins might affect the way the layout looks like."
+msgstr ""
+
+#: options.php:892
+#: options.php:1014
+#@ ttshowcase
+msgid "Light Background"
+msgstr ""
+
+#: options.php:893
+#: options.php:1015
+#@ ttshowcase
+msgid "Dark Background"
+msgstr ""
+
+#: options.php:898
+#: options.php:1020
+#@ ttshowcase
+msgid "Display entries only of this group."
+msgstr ""
+
+#: options.php:905
+#: options.php:956
+#: options.php:1027
+#@ ttshowcase
+msgid "Order By"
+msgstr ""
+
+#: options.php:906
+#: options.php:957
+#: options.php:1028
+#@ ttshowcase
+msgid "Paramater to order the entries with"
+msgstr ""
+
+#: options.php:909
+#: options.php:946
+#: options.php:1031
+#@ ttshowcase
+msgid "Limit"
+msgstr ""
+
+#: options.php:910
+#: options.php:947
+#@ ttshowcase
+msgid "Number of entries to display. Leave blank or 0 to display all."
+msgstr ""
+
+#: options.php:914
+#: options.php:951
+#@ ttshowcase
+msgid "Pagination"
+msgstr ""
+
+#: options.php:915
+#: options.php:952
+#@ ttshowcase
+msgid "Display pagination Below the layout (Limit number of entries should be set above)"
+msgstr ""
+
+#: options.php:922
+#@ ttshowcase
+msgid "Layout: Advanced Query"
+msgstr ""
+
+#: options.php:923
+#@ ttshowcase
+msgid "Advanced Shortcode Generator. You have more advanced options to perform a query to choose which entries to display"
+msgstr ""
+
+#: options.php:931
+#: options.php:992
+#: options.php:1010
+#@ ttshowcase
+msgid "Click here to get the PHP function. You can use it directly in the Theme files"
+msgstr ""
+
+#: options.php:938
+#@ ttshowcase
+msgid "Select Multiple"
+msgstr ""
+
+#: options.php:939
+#@ ttshowcase
+msgid "Select which categories to display"
+msgstr ""
+
+#: options.php:960
+#@ ttshowcase
+msgid "IDs to display"
+msgstr ""
+
+#: options.php:961
+#@ ttshowcase
+msgid "Comma sperated ID values of specific entries you want to display. Example: 7,11. Leave blank or 0 to display all"
+msgstr ""
+
+#: options.php:965
+#@ ttshowcase
+msgid "Search for term"
+msgstr ""
+
+#: options.php:966
+#@ ttshowcase
+msgid "Search for a term in the title and content of the entry. Leave blank to ignore this field."
+msgstr ""
+
+#: options.php:969
+#@ ttshowcase
+msgid "Extensive Search for term"
+msgstr ""
+
+#: options.php:970
+#@ ttshowcase
+msgid "Search for a term in the title, content and all aditional information fields. Leave blank to ignore this field."
+msgstr ""
+
+#: options.php:973
+#@ ttshowcase
+msgid "Publish Status"
+msgstr ""
+
+#: options.php:974
+#@ ttshowcase
+msgid "Publish status of entries"
+msgstr ""
+
+#: options.php:980
+#@ ttshowcase
+msgid "Front-end Submission Form"
+msgstr ""
+
+#: options.php:981
+#@ ttshowcase
+msgid "Shortcode generator to display a front-end submission form. After generating the shortcode you can place it in a page and forward your users there to submit their own entries."
+msgstr ""
+
+#: options.php:995
+#@ ttshowcase
+msgid "This is a preview only. The forms might look slightly different when applied to your page. Usually the themes have their own form styles and when you place the shortcode in your page, the form might inherit the available form styles from your theme."
+msgstr ""
+
+#: options.php:999
+#@ ttshowcase
+msgid "Average Rating Info"
+msgstr ""
+
+#: options.php:1032
+#@ ttshowcase
+msgid "Number of entries to display"
+msgstr ""
+
+#: options.php:1086
+#@ ttshowcase
+msgid "Name"
+msgstr "Name_nl"
+
+#: options.php:1087
+#@ ttshowcase
+msgid "Position"
+msgstr "Position_NL"
+
+#: options.php:1094
+#@ default
+msgid "Thank you for submitting your message!"
+msgstr ""
+
+#: options.php:1095
+#@ default
+msgid "The testimonial was not submitted. Check the form for errors."
+msgstr ""
+
+#: options.php:1096
+#@ ttshowcase
+msgid "Submit"
+msgstr ""
+
+#: options.php:1098
+#@ ttshowcase
+msgid "Your Image"
+msgstr ""
+
+#: options.php:1099
+#@ ttshowcase
+msgid "Star"
+msgstr ""
+
+#: options.php:1100
+#@ ttshowcase
+msgid "Stars"
+msgstr ""
+
+#: options.php:1101
+#@ ttshowcase
+msgid "Are you Human?"
+msgstr "Are you Human_NL"
+
+#: options.php:1103
+#@ default
+msgid "You need to be a registred user to submit entries"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: ttshowcase.php:0
+#@ ttshowcase
+msgid "Testimonials Showcase"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: ttshowcase.php:0
+#@ ttshowcase
+msgid "http://www.cmoreira.net/testimonials-showcase"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: ttshowcase.php:0
+#@ ttshowcase
+msgid "This plugin allows you to create and display testimonials, quotes, reviews or case studies in multiple ways"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: ttshowcase.php:0
+#@ ttshowcase
+msgid "Carlos Moreira"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: ttshowcase.php:0
+#@ ttshowcase
+msgid "http://cmoreira.net"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: ttshowcase.php:0
+#@ ttshowcase
+msgid "1.1.4.1"
+msgstr ""
+
+#: ttshowcase.php:185
+#@ ttshowcase
+msgid "There were no arguments supplied for this shortcode"
+msgstr ""
+
+#: ttshowcase.php:330
+#@ ttshowcase
+msgid "Review"
+msgstr ""
+
+#: options.php:1088
+#@ ttshowcase
+msgid "Company"
+msgstr "Company_NL"
+
+#: options.php:1092
+#@ ttshowcase
+msgid "Rate"
+msgstr "Rate_NL"
+

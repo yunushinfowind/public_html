@@ -1,0 +1,59 @@
+.tt_rating {
+    display:inline-block;
+    vertical-align: middle;
+}
+
+#ttshowcase_form .tt_rating label {
+   width:1em !important;
+   font-size:200%;
+}
+
+/* :not(:checked) is a filter, so that browsers that don’t support :checked don’t 
+   follow these rules. Every browser that supports :checked also supports :not(), so
+   it doesn’t make the test unnecessarily selective */
+.tt_rating:not(:checked) > input {
+    visibility:hidden;
+    width:0px;
+    height:0px;
+    float:right;
+    top: 100%;
+    clip: rect(0,0,0,0);
+    margin: 0;
+    padding: 0;
+    border:10px #fff solid;
+}
+
+.tt_rating:not(:checked) > label {
+    float: right;
+    display: block;
+    width:1em;
+    padding:0;
+    margin: 0;
+    overflow:hidden;
+    white-space:nowrap;
+    margin: 0;
+    cursor:pointer;
+    font-size:200%;
+    line-height:1.2;
+    color:#eee;
+    
+}
+
+
+.tt_rating > input:checked ~ label {
+    color: #f70;
+}
+
+.tt_rating:not(:checked) > label:hover,
+.tt_rating:not(:checked) > label:hover ~ label {
+    color: gold;
+   
+}
+
+.tt_rating > input:checked + label:hover,
+.tt_rating > input:checked + label:hover ~ label,
+.tt_rating > input:checked ~ label:hover,
+.tt_rating > input:checked ~ label:hover ~ label,
+.tt_rating > label:hover ~ input:checked ~ label {
+    color: #ea0;
+    }

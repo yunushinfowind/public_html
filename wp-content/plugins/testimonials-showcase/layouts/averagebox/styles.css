@@ -1,0 +1,68 @@
+/* Ratings Breakdown box */
+.tts_rating_breakdown { width:100%; font-size:0.8em; text-align: left;}
+.tts_rating_breakdown_line { width:100%; display:inline-block;padding:2px; }
+.tts_ratingb_value {display:inline-block; float:left; width:10%;  white-space: nowrap; }
+.tts_ratingb_full {display:inline-block; background-color: #f5f5f5; min-width:80%; height:10px; vertical-align: middle;}
+.tts_ratingb_percent { background-color:#CCC; height:10px;}
+.tts_ratingb_count { display:inline-block; float:right; width:10%; }
+.tts_ratingb_count span { padding:0px 5px; }
+
+
+
+/* Star Color */
+.tt_average_rating_box .fa-star, .tt_average_rating_box .fa-star-half-o, .tt_average_rating_box .fa-star-half, .tt_average_rating_box .fa-star-o {
+	color:gold;
+}
+
+
+/* Simple Box Theme */
+.tt_simple_box {
+
+	padding:10px;
+	
+
+}
+
+.tt_simple_box .fa-star, .tt_simple_box .fa-star-half-o, .tt_simple_box .fa-star-half, .tt_average_rating_box .fa-star-o {
+	padding:0 2px;
+}
+
+/* Big Star */
+
+.tt_big_star_box {
+
+	padding:10px;
+	text-align: center;
+
+}
+
+.tt_big_star_box .fa-star, .tt_big_star_box .fa-star-half-o, .tt_big_star_box .fa-star-o {
+	padding:0 2px;
+}
+
+.tt_big_star_box .tt_star_wrap {
+	display:inline-block;
+	width:100%;
+	
+}
+
+.tt_big_star_box .tt_rating_box_stars {
+	display:inline-block;
+	font-size:2em;
+
+
+}
+
+
+.tt_big_star_box .tt_rating_box_star_label {
+	display:block;
+	padding: 3px;
+	display: inline-block;
+
+}
+
+.tt_big_star_box .tt_rating_box_average, .tt_big_star_box .tt_rating_box_total {
+
+	font-size: 0.8em;
+	color:#555;
+}
